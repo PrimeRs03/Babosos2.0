@@ -2053,9 +2053,10 @@
   },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
+      "has_the_recipe": "2025-02-02 21:35:11 +0000",
       "has_iron_ingot": "2025-01-19 02:37:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -7700,6 +7701,36 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-02-02 06:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-02 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-02-02 21:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-02 21:35:23 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-02-02 21:28:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-02-02 21:35:23 +0000"
     },
     "done": false
   },

@@ -877,3 +877,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 21:11:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> que vas hacer?
 [02Feb2025 21:11:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> woy a comer
 [02Feb2025 21:12:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> voy a comer
+[02Feb2025 21:28:34.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Life turned out to be a comedy]
+[02Feb2025 21:33:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Junior Summoner]
+[02Feb2025 21:35:33.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [The Cutest Predator]
+[02Feb2025 21:36:04.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> quierews dico?
+[02Feb2025 21:36:10.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FunnyUntipo> ok
+[02Feb2025 21:36:22.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[02Feb2025 21:39:48.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Good Demoman]

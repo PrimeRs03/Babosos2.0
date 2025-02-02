@@ -10910,3 +10910,74 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 21:15:09.609] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [02Feb2025 21:19:17.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 21:19:17.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 21:24:17.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 21:24:17.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 21:25:44.262] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=4.82 TIER=30.0 DMG=0.0 SPD=0.0 DIG=11.0
+[02Feb2025 21:25:44.263] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem XpGain Map: {crafting:458}
+[02Feb2025 21:26:06.289] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=4.68 TIER=10.0 DMG=0.0 SPD=0.0 DIG=11.0
+[02Feb2025 21:26:06.289] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {mining:25}
+[02Feb2025 21:28:34.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Life turned out to be a comedy]
+[02Feb2025 21:29:17.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 21:29:17.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 21:29:39.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/root
+[02Feb2025 21:29:39.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/cross
+[02Feb2025 21:29:39.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room2
+[02Feb2025 21:29:39.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/parkour
+[02Feb2025 21:29:39.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/storage
+[02Feb2025 21:29:39.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room1
+[02Feb2025 21:29:39.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room_small2
+[02Feb2025 21:29:39.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/tunnel
+[02Feb2025 21:29:39.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/stairs
+[02Feb2025 21:30:44.512] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=4.68 TIER=10.0 DMG=0.0 SPD=0.0 DIG=11.0
+[02Feb2025 21:30:44.512] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {mining:25}
+[02Feb2025 21:31:57.467] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=4.68 TIER=10.0 DMG=0.0 SPD=0.0 DIG=11.0
+[02Feb2025 21:31:57.467] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem XpGain Map: {crafting:256}
+[02Feb2025 21:33:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Junior Summoner]
+[02Feb2025 21:34:17.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 21:34:17.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 21:35:33.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [The Cutest Predator]
+[02Feb2025 21:36:04.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> quierews dico?
+[02Feb2025 21:36:10.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FunnyUntipo> ok
+[02Feb2025 21:36:15.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[02Feb2025 21:36:15.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[02Feb2025 21:36:15.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_0
+[02Feb2025 21:36:16.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fountain
+[02Feb2025 21:36:16.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_3
+[02Feb2025 21:36:16.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_2
+[02Feb2025 21:36:16.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_1
+[02Feb2025 21:36:16.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_5
+[02Feb2025 21:36:16.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_1
+[02Feb2025 21:36:16.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:librarian_1
+[02Feb2025 21:36:16.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:alchemist_1
+[02Feb2025 21:36:16.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_2
+[02Feb2025 21:36:16.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:villager
+[02Feb2025 21:36:16.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fletcher_1
+[02Feb2025 21:36:16.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_2
+[02Feb2025 21:36:16.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_4
+[02Feb2025 21:36:16.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:loom_1
+[02Feb2025 21:36:16.757] [Worker-Main-53/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Feb2025 21:36:17.508] [Worker-Main-53/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Feb2025 21:36:17.511] [Worker-Main-53/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Feb2025 21:36:17.511] [Worker-Main-53/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[02Feb2025 21:36:17.799] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Feb2025 21:36:17.919] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[02Feb2025 21:36:17.927] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[02Feb2025 21:36:17.943] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[02Feb2025 21:36:17.997] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[02Feb2025 21:36:18.037] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[02Feb2025 21:36:18.062] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[02Feb2025 21:36:18.066] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[02Feb2025 21:36:18.082] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[02Feb2025 21:36:18.136] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[02Feb2025 21:36:18.150] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[02Feb2025 21:36:18.172] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[02Feb2025 21:36:18.173] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[02Feb2025 21:36:18.175] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[02Feb2025 21:36:22.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[02Feb2025 21:39:23.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 21:39:23.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 21:39:43.572] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=4.68 TIER=10.0 DMG=-3.0 SPD=11.999999523162842 DIG=0.0
+[02Feb2025 21:39:43.572] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {combat:23}
+[02Feb2025 21:39:48.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Good Demoman]
+[02Feb2025 21:40:11.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Feb2025 21:40:47.292] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [81d3dcba-0f43-4622-8d43-b113fe825029]
