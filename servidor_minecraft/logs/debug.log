@@ -10898,3 +10898,15 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 21:11:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> que vas hacer?
 [02Feb2025 21:11:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> woy a comer
 [02Feb2025 21:12:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> voy a comer
+[02Feb2025 21:14:17.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 21:14:17.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 21:14:19.259] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:14:19.260] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:14:33.055] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:14:33.056] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:14:33.059] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:14:33.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:15:09.608] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:15:09.609] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 21:19:17.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 21:19:17.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

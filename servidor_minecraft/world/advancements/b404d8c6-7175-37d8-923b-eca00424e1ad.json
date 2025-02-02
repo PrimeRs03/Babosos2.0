@@ -7158,6 +7158,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "shepherds_pie": "2025-02-02 21:13:27 +0000",
       "honey_glazed_ham": "2025-02-02 03:31:43 +0000",
       "roast_chicken": "2025-02-02 05:36:07 +0000"
     },
@@ -7654,39 +7655,15 @@
     },
     "done": false
   },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-02-02 06:23:43 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-02-02 06:22:46 +0000"
     },
     "done": false
   },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-02-02 06:23:43 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/gray_shower_towel": {
     "criteria": {
       "has_gray_wool": "2025-02-02 06:22:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-02-02 06:23:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-02 06:23:43 +0000"
     },
     "done": false
   },
@@ -7699,6 +7676,30 @@
   "pfm:recipes/furniture/oak_chair_classic_gray": {
     "criteria": {
       "oak_chair_classic_gray": "2025-02-02 06:22:46 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-02 06:23:43 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-02 06:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-02 06:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-02 06:23:43 +0000"
     },
     "done": false
   },
