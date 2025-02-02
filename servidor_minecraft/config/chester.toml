@@ -1,0 +1,14 @@
+
+[sound_effects]
+	#Control the Chesters idle sound effect
+	Panitng = true
+	#Control the Chesters opening/closing sound effect
+	"Opening/Closing" = true
+
+[xp]
+	#XP cost when summoning Chester
+	"XP Level Cost" = 5.0
+
+[chester_limit]
+	"Chester Limit" = true
+
