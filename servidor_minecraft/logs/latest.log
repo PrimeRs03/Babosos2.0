@@ -862,3 +862,18 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 20:11:46.011] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
 [02Feb2025 20:11:47.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
 [02Feb2025 20:12:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[02Feb2025 21:10:33.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FunnyUntipo[/127.34.62.154:50571] logged in with entity id 9142 at (-1656.6316568303705, 54.0, 149.01810745086627)
+[02Feb2025 21:10:33.774] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FunnyUntipo
+[02Feb2025 21:10:33.778] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FunnyUntipo
+[02Feb2025 21:10:33.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FunnyUntipo
+[02Feb2025 21:10:33.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FunnyUntipo
+[02Feb2025 21:10:33.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FunnyUntipo
+[02Feb2025 21:10:33.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FunnyUntipo
+[02Feb2025 21:10:33.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FunnyUntipo
+[02Feb2025 21:10:33.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
+[02Feb2025 21:10:34.038] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
+[02Feb2025 21:10:43.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> hola?
+[02Feb2025 21:11:01.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[02Feb2025 21:11:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> que vas hacer?
+[02Feb2025 21:11:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> woy a comer
+[02Feb2025 21:12:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> voy a comer

@@ -10921,9 +10921,10 @@
   },
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
-      "has_item": "2025-02-02 04:25:31 +0000"
+      "has_item": "2025-02-02 04:25:31 +0000",
+      "has_the_recipe": "2025-02-02 21:00:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
