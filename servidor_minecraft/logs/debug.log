@@ -11498,3 +11498,11 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 22:43:15.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo tried to swim in lava
 [02Feb2025 22:43:15.014] [Server thread/DEBUG] [tombstone/]: A new grave of the player FunnyUntipo was created at position [x:-1662, y:57, z:133, dim:minecraft:overworld]
 [02Feb2025 22:43:15.025] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[02Feb2025 22:44:23.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 22:44:23.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 22:44:42.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[02Feb2025 22:44:42.615] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1644, y:54, z:144, dim:minecraft:overworld]
+[02Feb2025 22:44:42.617] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[02Feb2025 22:49:23.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 22:49:23.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 22:50:22.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [A Throwaway Joke]

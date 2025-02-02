@@ -915,3 +915,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 22:15:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
 [02Feb2025 22:43:15.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo tried to swim in lava
 [02Feb2025 22:43:15.025] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[02Feb2025 22:44:42.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[02Feb2025 22:44:42.617] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[02Feb2025 22:50:22.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [A Throwaway Joke]
