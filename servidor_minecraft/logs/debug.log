@@ -11991,3 +11991,134 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 23:08:37.311] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {farming:35}
 [02Feb2025 23:09:23.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 23:09:23.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:14:17.122] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.122] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.152] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.153] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.156] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.157] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.164] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.165] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.178] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.191] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.201] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:17.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:23.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:14:23.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:14:28.416] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:28.416] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:29.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:29.962] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:35.957] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:14:35.957] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.704] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.709] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.710] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.713] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.713] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.720] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.720] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.722] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.723] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:49.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:58.610] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:16:58.611] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:18:07.139] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=0.72 TIER=10.0 DMG=1.875 SPD=7.499999046325683 DIG=0.0
+[02Feb2025 23:18:07.139] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem XpGain Map: {crafting:200}
+[02Feb2025 23:18:07.989] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=0.72 TIER=10.0 DMG=1.875 SPD=7.499999046325683 DIG=0.0
+[02Feb2025 23:18:07.989] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {combat:20}
+[02Feb2025 23:18:11.055] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=0.72 TIER=10.0 DMG=0.0 SPD=0.0 DIG=25.0
+[02Feb2025 23:18:11.055] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {farming:35}
+[02Feb2025 23:19:18.401] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=0.72 TIER=10.0 DMG=1.875 SPD=7.499999046325683 DIG=0.0
+[02Feb2025 23:19:18.401] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {combat:20}
+[02Feb2025 23:19:23.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:19:23.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:19:57.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03's life was severed by SpartanMike
+[02Feb2025 23:19:57.293] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1654, y:115, z:130, dim:minecraft:overworld]
+[02Feb2025 23:19:57.299] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[02Feb2025 23:20:03.875] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:03.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:03.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:03.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:03.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:03.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:03.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:03.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:06.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:06.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:20:29.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [8f0465db-d348-3144-a61a-6d0ee53eed92]
+[02Feb2025 23:20:33.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was laid to rest by PrimeRios03
+[02Feb2025 23:20:33.141] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1650, y:115, z:129, dim:minecraft:overworld]
+[02Feb2025 23:20:33.145] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[02Feb2025 23:23:33.618] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=0.0 TIER=0.0 DMG=10.5 SPD=16.999999523162842 DIG=0.0
+[02Feb2025 23:23:33.618] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem XpGain Map: {crafting:274}
+[02Feb2025 23:24:23.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:24:23.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:28:09.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.572] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.573] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.578] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.591] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.592] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.596] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.597] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.603] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.604] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.609] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:09.610] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:18.792] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:28:18.792] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Feb2025 23:29:23.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:29:23.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:30:01.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/straight
+[02Feb2025 23:30:01.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_1
+[02Feb2025 23:30:01.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/butcher
+[02Feb2025 23:30:01.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_1
+[02Feb2025 23:30:01.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_1
+[02Feb2025 23:30:01.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_3
+[02Feb2025 23:30:01.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_4
+[02Feb2025 23:30:01.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/fd_farm
+[02Feb2025 23:30:01.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_5
+[02Feb2025 23:30:01.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/library
+[02Feb2025 23:30:01.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/bench
+[02Feb2025 23:30:01.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_1
+[02Feb2025 23:30:01.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_0
+[02Feb2025 23:30:01.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_2
+[02Feb2025 23:30:01.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/smith
+[02Feb2025 23:30:01.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/cartographer
+[02Feb2025 23:30:01.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_2
+[02Feb2025 23:30:01.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/restaurant
+[02Feb2025 23:30:01.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/inter
+[02Feb2025 23:30:01.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/chemist
+[02Feb2025 23:30:01.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_1
+[02Feb2025 23:30:01.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_2
+[02Feb2025 23:30:01.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/farm
+[02Feb2025 23:30:01.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/well
+[02Feb2025 23:30:01.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_3
+[02Feb2025 23:30:01.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/mason
+[02Feb2025 23:30:01.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_2
+[02Feb2025 23:30:01.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_3
+[02Feb2025 23:30:01.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_1
+[02Feb2025 23:30:01.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_3
+[02Feb2025 23:30:01.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/terminator
+[02Feb2025 23:30:01.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/priest_tower
+[02Feb2025 23:30:01.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/boat
+[02Feb2025 23:30:01.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_2

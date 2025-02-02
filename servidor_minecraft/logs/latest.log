@@ -948,3 +948,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 23:05:14.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
 [02Feb2025 23:08:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 fell while climbing
 [02Feb2025 23:08:06.374] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[02Feb2025 23:19:57.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03's life was severed by SpartanMike
+[02Feb2025 23:19:57.299] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[02Feb2025 23:20:33.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was laid to rest by PrimeRios03
+[02Feb2025 23:20:33.145] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
