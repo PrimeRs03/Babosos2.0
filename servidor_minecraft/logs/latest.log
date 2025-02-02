@@ -899,3 +899,17 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 22:12:45.431] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
 [02Feb2025 22:13:12.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo moved too quickly! 0.008003601134078053,-10.144319948380101,2.8216042873179106
 [02Feb2025 22:13:13.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[02Feb2025 22:13:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Fishy Business]
+[02Feb2025 22:15:01.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[02Feb2025 22:15:01.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[02Feb2025 22:15:06.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.6.37.24:40419] logged in with entity id 24103 at (-1642.619785748214, 55.0, 151.3755800845645)
+[02Feb2025 22:15:06.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[02Feb2025 22:15:06.718] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[02Feb2025 22:15:06.718] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[02Feb2025 22:15:06.719] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[02Feb2025 22:15:06.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[02Feb2025 22:15:06.723] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[02Feb2025 22:15:06.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[02Feb2025 22:15:06.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[02Feb2025 22:15:06.862] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[02Feb2025 22:15:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
