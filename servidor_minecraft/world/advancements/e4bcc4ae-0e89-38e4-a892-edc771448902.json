@@ -1329,9 +1329,10 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-01-19 02:28:18 +0000",
+      "has_the_recipe": "2025-02-02 22:23:04 +0000",
       "has_iron_ingot": "2025-01-19 02:28:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
@@ -2184,9 +2185,10 @@
   },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
-      "has_stone_types_diorite": "2025-01-19 02:47:43 +0000"
+      "has_stone_types_diorite": "2025-01-19 02:47:43 +0000",
+      "has_the_recipe": "2025-02-02 22:27:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
@@ -2408,9 +2410,10 @@
   },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
+      "has_the_recipe": "2025-02-02 22:24:42 +0000",
       "has_planks": "2025-01-19 02:52:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
@@ -10988,6 +10991,24 @@
   "create:wrench_goggles": {
     "criteria": {
       "1": "2025-02-02 06:14:43 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
     },
     "done": false
   },

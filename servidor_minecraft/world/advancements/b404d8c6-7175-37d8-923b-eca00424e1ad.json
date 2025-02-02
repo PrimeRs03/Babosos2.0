@@ -7765,6 +7765,12 @@
     },
     "done": false
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-02-02 22:22:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
