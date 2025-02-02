@@ -10553,7 +10553,8 @@
       "torchflower": "2025-02-02 03:50:00 +0000",
       "pumpkin_stem": "2025-02-02 03:51:57 +0000",
       "melon_stem": "2025-02-02 03:51:59 +0000",
-      "wheat": "2025-02-01 02:55:02 +0000"
+      "wheat": "2025-02-01 02:55:02 +0000",
+      "pitcher_pod": "2025-02-02 21:55:58 +0000"
     },
     "done": false
   },
@@ -10681,9 +10682,10 @@
   },
   "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
-      "torchflower": "2025-02-02 03:50:00 +0000"
+      "torchflower": "2025-02-02 03:50:00 +0000",
+      "pitcher_pod": "2025-02-02 21:55:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
@@ -11318,6 +11320,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-02 21:57:42 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/cut_andesite_create_simple_stool": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
@@ -11345,6 +11353,12 @@
   "pfm:recipes/furniture/cut_andesite_create_classic_stool": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-02 21:57:42 +0000"
     },
     "done": false
   },
@@ -11384,9 +11398,21 @@
     },
     "done": false
   },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-02 21:51:40 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/cut_andesite_create_coffee_table_modern": {
     "criteria": {
       "cut_andesite_create_coffee_table_modern": "2025-02-02 20:21:00 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/misc/scalefruit_seeds": {
+    "criteria": {
+      "has_item": "2025-02-02 21:58:10 +0000"
     },
     "done": false
   },
@@ -11432,9 +11458,21 @@
     },
     "done": false
   },
+  "blue_skies:recipes/misc/winter_leaf_seeds": {
+    "criteria": {
+      "has_item": "2025-02-02 21:58:06 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/cut_andesite_create_chair_modern": {
     "criteria": {
       "cut_andesite_create_chair_modern": "2025-02-02 20:21:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-02 21:57:42 +0000"
     },
     "done": false
   },
