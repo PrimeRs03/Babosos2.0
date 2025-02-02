@@ -913,3 +913,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 22:15:06.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
 [02Feb2025 22:15:06.862] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
 [02Feb2025 22:15:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[02Feb2025 22:43:15.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo tried to swim in lava
+[02Feb2025 22:43:15.025] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved

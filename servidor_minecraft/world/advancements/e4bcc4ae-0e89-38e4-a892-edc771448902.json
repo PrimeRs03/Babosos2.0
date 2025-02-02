@@ -4199,7 +4199,8 @@
   },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_onion": "2025-01-19 03:32:45 +0000"
+      "has_onion": "2025-01-19 03:32:45 +0000",
+      "has_tomato": "2025-02-02 22:36:43 +0000"
     },
     "done": false
   },
@@ -11000,15 +11001,39 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-02 22:36:43 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_granite_brick_slab": {
     "criteria": {
       "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-02 22:36:43 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-02 22:36:43 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs": {
     "criteria": {
       "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-02 22:36:43 +0000"
     },
     "done": false
   },
