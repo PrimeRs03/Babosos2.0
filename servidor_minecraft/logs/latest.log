@@ -918,3 +918,33 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 22:44:42.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
 [02Feb2025 22:44:42.617] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
 [02Feb2025 22:50:22.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [A Throwaway Joke]
+[02Feb2025 22:54:18.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
+[02Feb2025 22:54:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
+[02Feb2025 22:55:08.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FunnyUntipo[/127.34.62.154:48873] logged in with entity id 37458 at (-1650.050000011921, 85.0, 139.51120460966533)
+[02Feb2025 22:55:08.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FunnyUntipo
+[02Feb2025 22:55:08.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FunnyUntipo
+[02Feb2025 22:55:08.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FunnyUntipo
+[02Feb2025 22:55:08.726] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FunnyUntipo
+[02Feb2025 22:55:08.727] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FunnyUntipo
+[02Feb2025 22:55:08.732] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FunnyUntipo
+[02Feb2025 22:55:08.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FunnyUntipo
+[02Feb2025 22:55:08.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
+[02Feb2025 22:55:08.901] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
+[02Feb2025 22:55:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[02Feb2025 23:04:21.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[02Feb2025 23:04:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[02Feb2025 23:04:25.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.6.37.24:52809] logged in with entity id 38717 at (-1649.300000011921, 54.0, 152.07562339974982)
+[02Feb2025 23:04:25.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[02Feb2025 23:04:25.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[02Feb2025 23:04:25.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[02Feb2025 23:04:25.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[02Feb2025 23:04:25.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[02Feb2025 23:04:25.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[02Feb2025 23:04:25.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[02Feb2025 23:04:25.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[02Feb2025 23:04:25.931] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[02Feb2025 23:04:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[02Feb2025 23:05:14.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
+[02Feb2025 23:05:14.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
+[02Feb2025 23:08:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 fell while climbing
+[02Feb2025 23:08:06.374] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved

@@ -3768,9 +3768,10 @@
   },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
+      "has_the_recipe": "2025-02-02 22:52:35 +0000",
       "has_planks": "2025-01-19 04:00:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
@@ -7705,45 +7706,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-02-02 21:43:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2025-02-02 21:39:48 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
-    "criteria": {
-      "find_labyrinth": "2025-02-02 21:48:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-02-02 21:43:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-02-02 21:35:33 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-02-02 21:28:34 +0000"
     },
     "done": true
   },
@@ -7753,9 +7718,27 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_dust": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_item": "2025-02-02 22:02:54 +0000"
+      "has_water_bucket": "2025-02-02 21:35:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-02-02 21:35:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-02 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-02-02 21:39:48 +0000"
     },
     "done": true
   },
@@ -7765,9 +7748,15 @@
     },
     "done": false
   },
-  "create:wrench_goggles": {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
-      "1": "2025-02-02 22:22:25 +0000"
+      "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
     },
     "done": false
   },
@@ -7783,12 +7772,6 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-02-02 22:36:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
@@ -7798,18 +7781,6 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/tomato_sauce": {
-    "criteria": {
-      "has_tomato": "2025-02-02 22:36:48 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-02 22:36:48 +0000"
     },
     "done": false
   },
@@ -7825,28 +7796,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-02-02 22:02:54 +0000",
-      "has_the_recipe": "2025-02-02 22:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-02 22:36:48 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-02-02 22:01:03 +0000"
     },
     "done": false
   },
@@ -7856,27 +7808,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-02-02 22:02:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-02-02 22:36:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-02-02 22:02:54 +0000"
     },
     "done": false
   },
@@ -7892,29 +7826,11 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:dark_forging": {
-    "criteria": {
-      "dark_forging_0": "2025-02-02 22:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-02-02 21:35:23 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-02-02 21:28:34 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -7946,21 +7862,39 @@
     },
     "done": false
   },
-  "pfm:recipes/furniture/basic_shower_head": {
-    "criteria": {
-      "has_water_bucket": "2025-02-02 21:35:23 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/misc/tomato_seeds": {
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_tomato": "2025-02-02 22:36:48 +0000"
+      "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-02 21:43:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-02 21:43:15 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-02-02 21:48:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-02 22:01:03 +0000"
     },
     "done": false
   },
@@ -7970,9 +7904,124 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+  "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-02-02 21:43:05 +0000"
+      "has_item": "2025-02-02 22:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-02 22:02:54 +0000",
+      "has_the_recipe": "2025-02-02 22:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-02 22:02:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-02 22:02:54 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-02-02 22:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-02-02 22:22:25 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-02-02 22:36:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-02 22:36:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-02 22:36:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-02 22:36:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-02 22:36:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-02 22:36:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-02-02 22:50:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:52:15 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:52:15 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:52:15 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-02-02 22:52:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-02 22:52:15 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_log_stool": {
+    "criteria": {
+      "has_log": "2025-02-02 22:52:15 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:52:15 +0000"
     },
     "done": false
   },

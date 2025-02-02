@@ -2611,9 +2611,10 @@
   },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_stone_types_andesite": "2025-01-19 02:52:53 +0000"
+      "has_stone_types_andesite": "2025-01-19 02:52:53 +0000",
+      "has_the_recipe": "2025-02-02 22:53:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -2761,9 +2762,10 @@
   },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_stone_types_andesite": "2025-01-19 02:52:53 +0000"
+      "has_stone_types_andesite": "2025-01-19 02:52:53 +0000",
+      "has_the_recipe": "2025-02-02 22:56:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -2773,9 +2775,10 @@
   },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_stone_types_andesite": "2025-01-19 02:52:53 +0000"
+      "has_stone_types_andesite": "2025-01-19 02:52:53 +0000",
+      "has_the_recipe": "2025-02-02 22:53:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
@@ -11003,21 +11006,21 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/small_diorite_brick_slab_recycling": {
+  "create:recipes/building_blocks/cut_granite_brick_slab": {
     "criteria": {
-      "has_small_diorite_brick_slab": "2025-02-02 22:45:24 +0000"
+      "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
     },
     "done": false
   },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-02-02 22:36:43 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_granite_brick_slab": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
     },
     "done": false
   },
@@ -11033,15 +11036,159 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/cut_granite_brick_stairs": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-02-02 22:25:47 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-02-02 22:36:43 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_diorite_brick_slab": "2025-02-02 22:45:24 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_table_basic": {
+    "criteria": {
+      "cut_andesite_create_table_basic": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_table_modern_dinner": {
+    "criteria": {
+      "cut_andesite_create_table_modern_dinner": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_classic_nightstand": {
+    "criteria": {
+      "cut_andesite_create_classic_nightstand": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_table_classic": {
+    "criteria": {
+      "cut_andesite_create_table_classic": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_chair_dinner": {
+    "criteria": {
+      "cut_andesite_create_chair_dinner": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_coffee_table_modern": {
+    "criteria": {
+      "cut_andesite_create_coffee_table_modern": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_chair": {
+    "criteria": {
+      "cut_andesite_create_chair": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_table_natural": {
+    "criteria": {
+      "cut_andesite_create_table_natural": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_coffee_table_classic": {
+    "criteria": {
+      "cut_andesite_create_coffee_table_classic": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_table_dinner": {
+    "criteria": {
+      "cut_andesite_create_table_dinner": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_chair_modern": {
+    "criteria": {
+      "cut_andesite_create_chair_modern": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_coffee_table_basic": {
+    "criteria": {
+      "cut_andesite_create_coffee_table_basic": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_chair_classic": {
+    "criteria": {
+      "cut_andesite_create_chair_classic": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cut_andesite_create_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-02 22:53:11 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_andesite_slab": "2025-02-02 22:56:02 +0000"
     },
     "done": false
   },
