@@ -12122,3 +12122,16 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [02Feb2025 23:30:01.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/priest_tower
 [02Feb2025 23:30:01.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/boat
 [02Feb2025 23:30:01.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_2
+[02Feb2025 23:34:23.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:34:23.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:39:23.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:39:23.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:42:32.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/root
+[02Feb2025 23:42:32.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/cross
+[02Feb2025 23:42:32.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room2
+[02Feb2025 23:42:32.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/parkour
+[02Feb2025 23:42:32.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/storage
+[02Feb2025 23:42:32.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room1
+[02Feb2025 23:42:32.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room_small2
+[02Feb2025 23:42:32.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/tunnel
+[02Feb2025 23:42:32.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/stairs
