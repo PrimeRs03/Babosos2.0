@@ -11335,6 +11335,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/cut_andesite_create_classic_stool": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
@@ -11350,6 +11356,12 @@
   "pfm:recipes/furniture/cut_andesite_create_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
     },
     "done": false
   },
@@ -11389,6 +11401,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/cut_andesite_create_chair": {
     "criteria": {
       "cut_andesite_create_chair": "2025-02-02 20:21:00 +0000"
@@ -11422,6 +11440,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_wall": {
     "criteria": {
       "has_polished_cut_andesite": "2025-02-02 20:21:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
     },
     "done": false
   },
