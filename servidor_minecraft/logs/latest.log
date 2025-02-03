@@ -1,1 +1,83 @@
 [03Feb2025 00:03:17.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Take Aim]
+[03Feb2025 00:08:54.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-907, y=69, z=328}
+[03Feb2025 00:09:24.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[03Feb2025 00:09:34.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1022, y=63, z=468}
+[03Feb2025 00:09:34.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1021, y=63, z=468}
+[03Feb2025 00:09:40.806] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-884, y=-4, z=509}
+[03Feb2025 00:09:40.936] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-943, y=-23, z=498}
+[03Feb2025 00:09:41.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[03Feb2025 00:10:54.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Feb2025 00:11:08.814] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[03Feb2025 00:11:08.814] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[03Feb2025 00:11:08.815] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[03Feb2025 00:11:18.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9100ms or 182 ticks behind
+[03Feb2025 00:11:36.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[03Feb2025 00:11:47.146] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1648, y=16, z=-614} but found not block entity block Block{minecraft:water}[level=1] at location
+[03Feb2025 00:11:47.147] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1648, y=16, z=-614}
+[03Feb2025 00:11:52.326] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1388, y=34, z=-643}
+[03Feb2025 00:12:38.139] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[03Feb2025 00:12:38.145] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[03Feb2025 00:12:38.146] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[03Feb2025 00:12:38.146] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[03Feb2025 00:12:55.668] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1264, y=-54, z=-900}
+[03Feb2025 00:12:55.668] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1264, y=-54, z=-900}
+[03Feb2025 00:12:56.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[03Feb2025 00:13:04.402] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1264, y=-54, z=-900}
+[03Feb2025 00:13:04.636] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1606, y=-5, z=-938}
+[03Feb2025 00:13:04.637] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1606, y=-5, z=-938}
+[03Feb2025 00:13:04.649] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1607, y=-17, z=-931}
+[03Feb2025 00:13:04.649] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1607, y=-17, z=-931}
+[03Feb2025 00:13:05.142] [Worker-Main-131/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1624, y=-57, z=-935}
+[03Feb2025 00:13:05.143] [Worker-Main-131/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1624, y=-57, z=-935}
+[03Feb2025 00:13:06.056] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1256, y=-36, z=-947}
+[03Feb2025 00:13:06.056] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1256, y=-36, z=-947}
+[03Feb2025 00:13:11.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1606, y=-5, z=-938}
+[03Feb2025 00:13:11.047] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1607, y=-17, z=-931}
+[03Feb2025 00:13:13.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03Feb2025 00:13:14.875] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1108, y=-4, z=525}
+[03Feb2025 00:13:22.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1624, y=-57, z=-935}
+[03Feb2025 00:13:33.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[03Feb2025 00:13:34.030] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1572, y=-4, z=-1008}
+[03Feb2025 00:13:34.033] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1573, y=-4, z=-1008}
+[03Feb2025 00:13:34.033] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1572, y=-4, z=-1008}
+[03Feb2025 00:13:34.034] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1573, y=-4, z=-1008}
+[03Feb2025 00:13:34.034] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1574, y=8, z=-1008}
+[03Feb2025 00:13:34.035] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1576, y=9, z=-1008}
+[03Feb2025 00:13:34.035] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1574, y=8, z=-1008}
+[03Feb2025 00:13:34.036] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1576, y=9, z=-1008}
+[03Feb2025 00:13:35.952] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1572, y=-3, z=-1009}
+[03Feb2025 00:13:35.965] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1572, y=-3, z=-1009}
+[03Feb2025 00:13:40.519] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1572, y=-4, z=-1008}
+[03Feb2025 00:13:40.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1574, y=8, z=-1008}
+[03Feb2025 00:13:40.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1573, y=-4, z=-1008}
+[03Feb2025 00:13:40.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1576, y=9, z=-1008}
+[03Feb2025 00:13:42.590] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1572, y=-3, z=-1009}
+[03Feb2025 00:13:45.066] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1589, y=21, z=-1071}
+[03Feb2025 00:13:45.066] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1587, y=21, z=-1072}
+[03Feb2025 00:13:45.067] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1589, y=21, z=-1071}
+[03Feb2025 00:13:45.067] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1587, y=21, z=-1072}
+[03Feb2025 00:13:48.827] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1672, y=-3, z=-1074}
+[03Feb2025 00:13:48.827] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1672, y=-3, z=-1074}
+[03Feb2025 00:13:49.238] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1686, y=-29, z=-1074}
+[03Feb2025 00:13:49.239] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1685, y=-29, z=-1075}
+[03Feb2025 00:13:49.239] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1686, y=-29, z=-1076}
+[03Feb2025 00:13:49.240] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1686, y=-29, z=-1074}
+[03Feb2025 00:13:49.240] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1685, y=-29, z=-1075}
+[03Feb2025 00:13:49.240] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1686, y=-29, z=-1076}
+[03Feb2025 00:13:52.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4165ms or 83 ticks behind
+[03Feb2025 00:13:52.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1589, y=21, z=-1071}
+[03Feb2025 00:13:52.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1587, y=21, z=-1072}
+[03Feb2025 00:13:56.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1672, y=-3, z=-1074}
+[03Feb2025 00:13:56.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1686, y=-29, z=-1076}
+[03Feb2025 00:13:56.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1686, y=-29, z=-1074}
+[03Feb2025 00:13:56.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1685, y=-29, z=-1075}
+[03Feb2025 00:14:12.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4746ms or 94 ticks behind
+[03Feb2025 00:14:16.870] [Worker-Main-60/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[03Feb2025 00:14:16.871] [Worker-Main-60/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[03Feb2025 00:14:16.872] [Worker-Main-60/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[03Feb2025 00:14:16.872] [Worker-Main-60/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[03Feb2025 00:14:20.264] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1773, y=21, z=-1059}
+[03Feb2025 00:14:20.265] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1775, y=21, z=-1060}
+[03Feb2025 00:14:20.265] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1773, y=21, z=-1059}
+[03Feb2025 00:14:20.265] [Worker-Main-132/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1775, y=21, z=-1060}
+[03Feb2025 00:14:39.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind

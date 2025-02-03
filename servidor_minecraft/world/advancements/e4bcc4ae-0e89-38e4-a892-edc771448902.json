@@ -602,6 +602,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-22 01:23:46 +0000",
+      "sweet_berries": "2025-02-03 00:09:14 +0000",
       "cooked_beef": "2025-01-27 02:35:13 +0000",
       "baked_potato": "2025-01-19 04:05:08 +0000",
       "beef": "2025-01-19 03:10:57 +0000",
@@ -11190,6 +11191,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_recycling": {
     "criteria": {
       "has_polished_cut_andesite_slab": "2025-02-02 22:56:02 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-03 00:08:44 +0000"
     },
     "done": false
   },
