@@ -111,6 +111,7 @@
       "minecraft:windswept_forest": "2025-01-19 04:24:48 +0000",
       "minecraft:ocean": "2025-01-19 02:37:45 +0000",
       "minecraft:windswept_savanna": "2025-01-19 03:36:23 +0000",
+      "minecraft:warm_ocean": "2025-02-03 02:30:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 00:15:15 +0000",
       "minecraft:flower_forest": "2025-01-19 03:41:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 04:34:07 +0000",
@@ -687,7 +688,11 @@
       "golden_apple": "2025-02-02 04:04:29 +0000",
       "cookie": "2025-01-19 04:48:11 +0000",
       "suspicious_stew": "2025-01-19 04:32:58 +0000",
+      "rotten_flesh": "2025-02-03 01:37:24 +0000",
+      "salmon": "2025-02-03 01:24:20 +0000",
+      "beetroot": "2025-02-03 01:39:55 +0000",
       "cooked_chicken": "2025-01-19 03:18:00 +0000",
+      "cod": "2025-02-03 01:25:27 +0000",
       "cooked_salmon": "2025-02-02 06:18:59 +0000",
       "carrot": "2025-02-02 00:10:17 +0000"
     },
@@ -702,6 +707,8 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "woodland": "2025-02-03 01:13:39 +0000",
+      "floodplain": "2025-02-03 02:52:41 +0000",
+      "lush_savanna": "2025-02-03 02:30:27 +0000",
       "highland": "2025-01-19 04:17:52 +0000",
       "jacaranda_glade": "2025-01-19 03:38:54 +0000",
       "wetland": "2025-01-19 04:10:23 +0000",
@@ -710,6 +717,8 @@
       "field": "2025-01-19 03:46:12 +0000",
       "overgrown_greens": "2025-02-02 05:47:10 +0000",
       "coniferous_forest": "2025-01-19 03:42:21 +0000",
+      "dryland": "2025-02-03 02:46:46 +0000",
+      "lush_desert": "2025-02-03 02:35:20 +0000",
       "redwood_forest": "2025-01-19 02:21:40 +0000",
       "dune_beach": "2025-01-19 02:37:32 +0000",
       "pasture": "2025-01-19 03:40:09 +0000",
@@ -717,13 +726,16 @@
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:23 +0000",
       "gravel_beach": "2025-01-19 03:49:02 +0000",
-      "tropics": "2025-02-03 00:18:14 +0000"
+      "tropics": "2025-02-03 00:18:14 +0000",
+      "rainforest": "2025-02-03 02:51:17 +0000"
     },
     "done": false
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-03 01:13:39 +0000",
+      "floodplain": "2025-02-03 02:52:41 +0000",
+      "lush_savanna": "2025-02-03 02:30:27 +0000",
       "highland": "2025-01-19 04:17:52 +0000",
       "jacaranda_glade": "2025-01-19 03:38:54 +0000",
       "wetland": "2025-01-19 04:10:23 +0000",
@@ -732,6 +744,8 @@
       "field": "2025-01-19 03:46:12 +0000",
       "overgrown_greens": "2025-02-02 05:47:10 +0000",
       "coniferous_forest": "2025-01-19 03:42:21 +0000",
+      "dryland": "2025-02-03 02:46:46 +0000",
+      "lush_desert": "2025-02-03 02:35:20 +0000",
       "redwood_forest": "2025-01-19 02:21:40 +0000",
       "dune_beach": "2025-01-19 02:37:32 +0000",
       "pasture": "2025-01-19 03:40:09 +0000",
@@ -739,7 +753,8 @@
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:23 +0000",
       "gravel_beach": "2025-01-19 03:49:02 +0000",
-      "tropics": "2025-02-03 00:18:14 +0000"
+      "tropics": "2025-02-03 00:18:14 +0000",
+      "rainforest": "2025-02-03 02:51:17 +0000"
     },
     "done": false
   },
@@ -3491,7 +3506,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-01-19 03:45:53 +0000"
+      "in_better_spider_dungeon": "2025-01-19 03:45:53 +0000",
+      "in_better_monster_room": "2025-02-03 02:10:36 +0000"
     },
     "done": false
   },
@@ -8044,18 +8060,6 @@
     },
     "done": false
   },
-  "dungeons_arise:find_typhon": {
-    "criteria": {
-      "location0": "2025-02-03 00:18:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-02-03 00:34:50 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-02-03 00:10:19 +0000"
@@ -8074,12 +8078,6 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-02-03 00:34:50 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-02-03 00:13:04 +0000"
@@ -8089,6 +8087,36 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-02-03 00:13:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 00:13:04 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-03 00:18:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-03 00:34:50 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-03 00:34:50 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-03 00:34:50 +0000"
     },
     "done": false
   },
@@ -8104,21 +8132,233 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-02-03 00:34:50 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
     "criteria": {
       "cooked_chicken_cuts": "2025-02-03 00:35:20 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "has_any_ingredient": "2025-02-03 00:13:04 +0000"
+      "has_salmon": "2025-02-03 01:24:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-03 01:24:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-03 01:24:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-03 01:24:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-03 01:39:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-03 01:39:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-03 01:39:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 01:57:03 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 02:10:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-02-03 02:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-03 02:39:35 +0000",
+      "has_golden_pickaxe": "2025-02-03 02:39:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-03 02:39:35 +0000",
+      "has_golden_pickaxe": "2025-02-03 02:39:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-03 02:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 02:40:55 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-03 02:51:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-03 02:51:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-03 02:51:59 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-03 02:51:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-03 02:51:59 +0000"
     },
     "done": false
   },

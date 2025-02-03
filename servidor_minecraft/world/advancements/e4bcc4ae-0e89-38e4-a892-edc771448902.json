@@ -110,6 +110,7 @@
       "minecraft:windswept_forest": "2025-01-19 04:24:50 +0000",
       "minecraft:ocean": "2025-01-19 02:55:37 +0000",
       "minecraft:windswept_savanna": "2025-01-19 03:31:42 +0000",
+      "minecraft:warm_ocean": "2025-02-03 02:30:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 01:06:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 04:32:37 +0000",
       "minecraft:savanna": "2025-01-19 02:16:35 +0000",
@@ -611,9 +612,11 @@
       "potato": "2025-01-26 22:17:22 +0000",
       "bread": "2025-01-19 02:20:58 +0000",
       "golden_apple": "2025-02-02 05:29:49 +0000",
+      "rotten_flesh": "2025-02-03 01:30:40 +0000",
       "melon_slice": "2025-01-19 02:59:33 +0000",
       "golden_carrot": "2025-01-26 22:27:09 +0000",
       "beetroot": "2025-02-02 23:41:55 +0000",
+      "enchanted_golden_apple": "2025-02-03 01:40:58 +0000",
       "mushroom_stew": "2025-01-22 01:27:34 +0000",
       "cod": "2025-02-02 22:17:47 +0000",
       "carrot": "2025-01-25 23:03:49 +0000"
@@ -629,6 +632,8 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "woodland": "2025-02-03 01:13:49 +0000",
+      "floodplain": "2025-02-03 02:51:23 +0000",
+      "lush_savanna": "2025-02-03 02:30:27 +0000",
       "highland": "2025-01-19 04:17:29 +0000",
       "jacaranda_glade": "2025-01-19 03:36:06 +0000",
       "wetland": "2025-01-19 04:09:18 +0000",
@@ -638,6 +643,8 @@
       "orchard": "2025-01-19 03:36:24 +0000",
       "overgrown_greens": "2025-01-26 20:45:32 +0000",
       "coniferous_forest": "2025-01-19 03:42:17 +0000",
+      "dryland": "2025-02-03 02:45:32 +0000",
+      "lush_desert": "2025-02-03 02:34:14 +0000",
       "redwood_forest": "2025-01-19 02:21:36 +0000",
       "dune_beach": "2025-01-19 02:55:18 +0000",
       "pasture": "2025-01-19 03:40:02 +0000",
@@ -645,13 +652,16 @@
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:21 +0000",
       "gravel_beach": "2025-01-19 03:50:39 +0000",
-      "glowing_grotto": "2025-01-26 21:29:51 +0000"
+      "glowing_grotto": "2025-01-26 21:29:51 +0000",
+      "rainforest": "2025-02-03 02:50:54 +0000"
     },
     "done": false
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-03 01:13:49 +0000",
+      "floodplain": "2025-02-03 02:51:23 +0000",
+      "lush_savanna": "2025-02-03 02:30:27 +0000",
       "highland": "2025-01-19 04:17:29 +0000",
       "jacaranda_glade": "2025-01-19 03:36:06 +0000",
       "wetland": "2025-01-19 04:09:18 +0000",
@@ -661,6 +671,8 @@
       "orchard": "2025-01-19 03:36:24 +0000",
       "overgrown_greens": "2025-01-26 20:45:32 +0000",
       "coniferous_forest": "2025-01-19 03:42:17 +0000",
+      "dryland": "2025-02-03 02:45:32 +0000",
+      "lush_desert": "2025-02-03 02:34:14 +0000",
       "redwood_forest": "2025-01-19 02:21:36 +0000",
       "dune_beach": "2025-01-19 02:55:18 +0000",
       "pasture": "2025-01-19 03:40:02 +0000",
@@ -668,7 +680,8 @@
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:21 +0000",
       "gravel_beach": "2025-01-19 03:50:39 +0000",
-      "glowing_grotto": "2025-01-26 21:29:51 +0000"
+      "glowing_grotto": "2025-01-26 21:29:51 +0000",
+      "rainforest": "2025-02-03 02:50:54 +0000"
     },
     "done": false
   },
@@ -1164,7 +1177,8 @@
       "minecraft:enderman": "2025-01-22 01:51:11 +0000",
       "minecraft:stray": "2025-02-01 02:54:59 +0000",
       "minecraft:silverfish": "2025-02-02 05:12:25 +0000",
-      "minecraft:zombie": "2025-01-19 03:08:26 +0000"
+      "minecraft:zombie": "2025-01-19 03:08:26 +0000",
+      "minecraft:drowned": "2025-02-03 02:01:39 +0000"
     },
     "done": false
   },
@@ -1181,7 +1195,8 @@
       "minecraft:enderman": "2025-01-22 01:51:11 +0000",
       "minecraft:stray": "2025-02-01 02:54:59 +0000",
       "minecraft:silverfish": "2025-02-02 05:12:25 +0000",
-      "minecraft:zombie": "2025-01-19 03:08:26 +0000"
+      "minecraft:zombie": "2025-01-19 03:08:26 +0000",
+      "minecraft:drowned": "2025-02-03 02:01:39 +0000"
     },
     "done": false
   },
@@ -3659,7 +3674,8 @@
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_hay_block": "2025-01-19 03:24:16 +0000"
+      "has_hay_block": "2025-01-19 03:24:16 +0000",
+      "has_redstone": "2025-02-03 01:30:53 +0000"
     },
     "done": false
   },
@@ -5923,9 +5939,10 @@
   },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
+      "has_the_recipe": "2025-02-03 01:25:53 +0000",
       "has_mutton": "2025-01-19 22:42:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/stripped_bamboo_classic_nightstand": {
     "criteria": {
@@ -11218,33 +11235,15 @@
     },
     "done": false
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-03 01:11:22 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/oak_chair_classic_brown": {
     "criteria": {
       "oak_chair_classic_brown": "2025-02-03 01:04:58 +0000"
     },
     "done": false
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-03 01:11:22 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/brown_shower_towel": {
     "criteria": {
       "has_brown_wool": "2025-02-03 01:04:58 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-02-03 01:11:22 +0000"
     },
     "done": false
   },
@@ -11263,6 +11262,528 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-02-03 01:04:58 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-03 01:11:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-03 01:11:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-03 01:11:22 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/lunar_blue_skies_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bluebright_blue_skies_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/scorched_born_in_chaos_v1_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/acacia_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-02-03 01:58:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dusk_blue_skies_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/comet_blue_skies_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/lunar_blue_skies_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bluebright_blue_skies_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bamboo_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/warped_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/starlit_blue_skies_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/crimson_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-03 01:31:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/warped_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cherry_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/frostbright_blue_skies_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/comet_blue_skies_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 02:10:24 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-03 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/starlit_blue_skies_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-03 02:53:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/acacia_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_blue_skies_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jungle_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dusk_blue_skies_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bamboo_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_blue_skies_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/scorched_born_in_chaos_v1_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/birch_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jungle_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/crimson_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/birch_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/frostbright_blue_skies_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-02-03 02:46:32 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cherry_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 02:42:20 +0000"
     },
     "done": false
   },
