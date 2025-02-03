@@ -113,6 +113,7 @@
       "minecraft:warm_ocean": "2025-02-03 02:30:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 01:06:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 04:32:37 +0000",
+      "minecraft:meadow": "2025-02-03 03:18:09 +0000",
       "minecraft:savanna": "2025-01-19 02:16:35 +0000",
       "minecraft:plains": "2025-01-19 02:20:51 +0000"
     },
@@ -637,6 +638,7 @@
       "highland": "2025-01-19 04:17:29 +0000",
       "jacaranda_glade": "2025-01-19 03:36:06 +0000",
       "wetland": "2025-01-19 04:09:18 +0000",
+      "mystic_grove": "2025-02-03 03:24:01 +0000",
       "old_growth_woodland": "2025-01-19 02:21:21 +0000",
       "maple_woods": "2025-01-19 03:46:16 +0000",
       "field": "2025-01-19 03:46:13 +0000",
@@ -651,6 +653,7 @@
       "fir_clearing": "2025-01-19 03:45:03 +0000",
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:21 +0000",
+      "grassland": "2025-02-03 03:24:03 +0000",
       "gravel_beach": "2025-01-19 03:50:39 +0000",
       "glowing_grotto": "2025-01-26 21:29:51 +0000",
       "rainforest": "2025-02-03 02:50:54 +0000"
@@ -665,6 +668,7 @@
       "highland": "2025-01-19 04:17:29 +0000",
       "jacaranda_glade": "2025-01-19 03:36:06 +0000",
       "wetland": "2025-01-19 04:09:18 +0000",
+      "mystic_grove": "2025-02-03 03:24:01 +0000",
       "old_growth_woodland": "2025-01-19 02:21:21 +0000",
       "maple_woods": "2025-01-19 03:46:16 +0000",
       "field": "2025-01-19 03:46:13 +0000",
@@ -679,6 +683,7 @@
       "fir_clearing": "2025-01-19 03:45:03 +0000",
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:21 +0000",
+      "grassland": "2025-02-03 03:24:03 +0000",
       "gravel_beach": "2025-01-19 03:50:39 +0000",
       "glowing_grotto": "2025-01-26 21:29:51 +0000",
       "rainforest": "2025-02-03 02:50:54 +0000"
@@ -3694,15 +3699,17 @@
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
+      "iron_boots": "2025-02-03 03:19:22 +0000",
       "iron_chestplate": "2025-01-26 21:20:39 +0000",
       "iron_leggings": "2025-01-26 21:20:39 +0000",
       "iron_helmet": "2025-01-19 03:26:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
+      "has_iron_boots": "2025-02-03 03:19:22 +0000",
       "has_iron_shovel": "2025-02-01 02:00:45 +0000",
       "has_iron_leggings": "2025-01-26 21:20:39 +0000",
       "has_iron_pickaxe": "2025-01-22 01:14:28 +0000",
@@ -3715,6 +3722,7 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
+      "has_iron_boots": "2025-02-03 03:19:22 +0000",
       "has_iron_shovel": "2025-02-01 02:00:45 +0000",
       "has_iron_leggings": "2025-01-26 21:20:39 +0000",
       "has_iron_pickaxe": "2025-01-22 01:14:28 +0000",
@@ -6144,6 +6152,7 @@
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
+      "has_golden_sword": "2025-02-03 03:20:27 +0000",
       "has_golden_boots": "2025-01-19 23:00:40 +0000",
       "has_golden_chestplate": "2025-01-19 23:00:40 +0000"
     },
@@ -6163,6 +6172,7 @@
   },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
+      "has_golden_sword": "2025-02-03 03:20:27 +0000",
       "has_golden_boots": "2025-01-19 23:00:40 +0000",
       "has_golden_chestplate": "2025-01-19 23:00:40 +0000"
     },
@@ -11231,6 +11241,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-02-03 03:10:50 +0000",
       "illager_camp": "2025-02-03 00:11:13 +0000"
     },
     "done": false
@@ -11283,6 +11294,102 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-03 01:31:23 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-02-03 01:58:05 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 02:10:24 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 02:10:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lunar_blue_skies_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
@@ -11318,12 +11425,6 @@
       "has_bed": "2025-02-03 02:42:20 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2025-02-03 01:58:05 +0000"
-    },
-    "done": true
   },
   "pfm:recipes/furniture/dusk_blue_skies_green_simple_bed": {
     "criteria": {
@@ -11409,12 +11510,6 @@
     },
     "done": false
   },
-  "shieldexp:recipes/diamond_shield": {
-    "criteria": {
-      "has_diamond": "2025-02-03 01:31:23 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
@@ -11430,18 +11525,6 @@
   "pfm:recipes/furniture/umbran_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-02-03 01:30:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-02-03 01:30:53 +0000"
     },
     "done": false
   },
@@ -11487,12 +11570,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-02-03 01:30:53 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/mangrove_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
@@ -11505,45 +11582,15 @@
     },
     "done": false
   },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2025-02-03 02:10:24 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/use_aquatic_life": {
-    "criteria": {
-      "has_magic_scroll": "2025-02-03 02:53:34 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/starlit_blue_skies_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-02-03 02:53:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2025-02-03 01:30:53 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/acacia_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-02-03 01:30:53 +0000"
     },
     "done": false
   },
@@ -11559,21 +11606,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-02-03 01:30:53 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/jungle_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-02-03 01:30:53 +0000"
     },
     "done": false
   },
@@ -11583,23 +11618,11 @@
     },
     "done": false
   },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2025-02-03 01:30:53 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/spruce_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
     },
     "done": false
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-02-03 02:10:24 +0000"
-    },
-    "done": true
   },
   "pfm:recipes/furniture/dusk_blue_skies_green_classic_bed": {
     "criteria": {
@@ -11610,18 +11633,6 @@
   "pfm:recipes/furniture/bamboo_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-02-03 02:53:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-02-03 01:30:53 +0000"
     },
     "done": false
   },
@@ -11658,12 +11669,6 @@
   "pfm:recipes/furniture/maple_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-02-03 01:30:53 +0000"
     },
     "done": false
   },
@@ -11715,12 +11720,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-02-03 01:30:53 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/birch_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
@@ -11751,18 +11750,6 @@
     },
     "done": false
   },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
-    "criteria": {
-      "has_item": "2025-02-03 01:30:53 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
-    "criteria": {
-      "has_tiny_cactus": "2025-02-03 02:46:32 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/maple_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 02:42:20 +0000"
@@ -11786,6 +11773,108 @@
       "has_bed": "2025-02-03 02:42:20 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-02-03 02:46:32 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-03 02:53:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-03 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-03 03:01:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-03 03:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-03 03:22:06 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 03:19:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-03 03:06:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-03 03:19:38 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 03:03:35 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 03:19:38 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 03:19:38 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 03:19:38 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "rice_roll_medley": "2025-02-03 03:01:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-03 03:06:52 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-02-03 03:10:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
