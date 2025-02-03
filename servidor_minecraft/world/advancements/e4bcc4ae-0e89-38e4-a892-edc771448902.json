@@ -3707,6 +3707,7 @@
   },
   "dungeons_enhanced:root": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-02-03 00:14:18 +0000",
       "entered_fishing_ship": "2025-01-26 23:06:31 +0000",
       "entered_large_dungeon": "2025-01-26 22:53:32 +0000",
       "entered_ruined_building": "2025-01-19 03:27:32 +0000"
@@ -3715,6 +3716,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-02-03 00:14:18 +0000",
       "entered_fishing_ship": "2025-01-26 23:06:31 +0000",
       "entered_large_dungeon": "2025-01-26 22:53:32 +0000",
       "entered_ruined_building": "2025-01-19 03:27:32 +0000"
@@ -10526,6 +10528,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-02-03 00:11:32 +0000",
       "sugar_cane": "2025-02-02 03:31:49 +0000"
     },
     "done": false
@@ -11203,6 +11206,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-02 23:38:33 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-02-03 00:11:13 +0000"
     },
     "done": false
   },
