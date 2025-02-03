@@ -11689,5 +11689,203 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-03 01:11:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:10:23 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
