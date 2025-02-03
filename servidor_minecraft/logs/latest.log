@@ -867,3 +867,27 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 19:37:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
 [03Feb2025 19:37:13.295] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
 [03Feb2025 20:06:56.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[03Feb2025 21:07:36.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> donde estas?
+[03Feb2025 21:07:43.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> jerald?
+[03Feb2025 21:10:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to SpartanMike: Aquí
+[03Feb2025 21:14:47.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Instant Damage to SpartanMike
+[03Feb2025 21:16:54.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[03Feb2025 21:16:54.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: effect //effect give SpartanMike levitation 15 2<--[HERE]
+[03Feb2025 21:17:15.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Levitation to SpartanMike
+[03Feb2025 21:21:01.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.176.159.168:41229] logged in with entity id 18367 at (550.0364589767776, 64.0, 748.5976299458366)
+[03Feb2025 21:21:01.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[03Feb2025 21:21:01.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[03Feb2025 21:21:01.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[03Feb2025 21:21:01.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[03Feb2025 21:21:01.921] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[03Feb2025 21:21:01.928] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[03Feb2025 21:21:01.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[03Feb2025 21:21:01.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[03Feb2025 21:21:02.027] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[03Feb2025 21:21:24.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrimeRios03: holi
+[03Feb2025 21:21:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[03Feb2025 21:21:48.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Feb2025 21:21:48.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tittle PrimeRios03 tittle holo<--[HERE]
+[03Feb2025 21:22:06.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PrimeRios03 to SpartanMike
+[03Feb2025 21:22:21.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> me hice tp por el servr
+[03Feb2025 21:22:26.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> DICO?
