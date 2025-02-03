@@ -891,3 +891,9 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 21:22:06.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PrimeRios03 to SpartanMike
 [03Feb2025 21:22:21.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> me hice tp por el servr
 [03Feb2025 21:22:26.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> DICO?
+[03Feb2025 21:27:44.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03Feb2025 21:28:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Who is Cutting Onions?]
+[03Feb2025 21:31:15.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike moved too quickly! 0.07706367975856665,-11.314849834016997,-0.1017703196321662
+[03Feb2025 21:31:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
+[03Feb2025 21:31:16.163] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[03Feb2025 21:32:55.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [New Age Librarian]

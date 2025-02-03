@@ -11817,7 +11817,10 @@
   },
   "farmersdelight:main/place_feast": {
     "criteria": {
-      "rice_roll_medley": "2025-02-03 03:01:06 +0000"
+      "rice_roll_medley": "2025-02-03 03:01:06 +0000",
+      "honey_glazed_ham": "2025-02-03 21:24:36 +0000",
+      "roast_chicken": "2025-02-03 21:24:34 +0000",
+      "stuffed_pumpkin": "2025-02-03 21:24:38 +0000"
     },
     "done": false
   },
@@ -11898,6 +11901,24 @@
       "voluntary_exile": "2025-02-03 03:56:06 +0000"
     },
     "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-02-03 21:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-03 21:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 21:28:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
