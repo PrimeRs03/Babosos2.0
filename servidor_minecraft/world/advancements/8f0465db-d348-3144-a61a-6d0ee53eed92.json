@@ -140,10 +140,12 @@
       "cooked_mutton": "2025-01-19 02:31:08 +0000",
       "tropical_fish": "2025-02-02 22:27:06 +0000",
       "apple": "2025-02-02 04:34:23 +0000",
+      "mutton": "2025-02-03 00:01:39 +0000",
       "bread": "2025-01-19 02:18:41 +0000",
       "golden_apple": "2025-01-26 21:28:58 +0000",
       "dried_kelp": "2025-02-02 06:05:08 +0000",
-      "salmon": "2025-02-02 22:27:10 +0000"
+      "salmon": "2025-02-02 22:27:10 +0000",
+      "cod": "2025-02-02 23:52:45 +0000"
     },
     "done": false
   },
@@ -10536,6 +10538,7 @@
     "criteria": {
       "cabbage": "2025-02-02 03:49:47 +0000",
       "onion": "2025-02-01 03:04:26 +0000",
+      "sweet_berries": "2025-02-02 23:44:32 +0000",
       "tomato": "2025-02-01 03:00:28 +0000",
       "rice": "2025-02-01 02:59:18 +0000",
       "beetroot": "2025-02-02 03:49:43 +0000",
@@ -11317,18 +11320,6 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/cut_andesite_brick_stairs": {
-    "criteria": {
-      "has_cut_andesite_bricks": "2025-02-02 20:29:20 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-02 22:13:29 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/cut_andesite_create_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
@@ -11338,21 +11329,6 @@
   "pfm:recipes/furniture/cut_andesite_create_table_basic": {
     "criteria": {
       "cut_andesite_create_table_basic": "2025-02-02 20:21:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "pufferfish": "2025-02-02 22:13:02 +0000",
-      "salmon": "2025-02-02 22:13:29 +0000",
-      "cod": "2025-02-02 22:10:25 +0000",
-      "tropical_fish": "2025-02-02 22:11:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-02-02 21:57:42 +0000"
     },
     "done": false
   },
@@ -11368,45 +11344,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-02-02 22:13:29 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_wall": {
-    "criteria": {
-      "has_cut_andesite_bricks": "2025-02-02 20:29:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-02-02 20:58:39 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_granite_brick_wall": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-02-02 22:25:54 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/cut_andesite_create_classic_stool": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-02-02 21:57:42 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_slab_recycling": {
-    "criteria": {
-      "has_polished_cut_andesite_slab": "2025-02-02 23:03:05 +0000"
     },
     "done": false
   },
@@ -11419,18 +11359,6 @@
   "pfm:recipes/furniture/cut_andesite_create_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-02-02 20:58:39 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-02-02 23:39:00 +0000"
     },
     "done": false
   },
@@ -11452,75 +11380,15 @@
     },
     "done": false
   },
-  "shieldexp:recipes/diamond_shield": {
-    "criteria": {
-      "has_diamond": "2025-02-02 21:51:40 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_recycling": {
-    "criteria": {
-      "has_small_diorite_brick_slab": "2025-02-02 22:49:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_andesite_brick_wall": {
-    "criteria": {
-      "has_small_andesite_bricks": "2025-02-02 22:30:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-02-02 22:10:01 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/cut_andesite_create_coffee_table_modern": {
     "criteria": {
       "cut_andesite_create_coffee_table_modern": "2025-02-02 20:21:00 +0000"
     },
     "done": false
   },
-  "blue_skies:recipes/misc/scalefruit_seeds": {
-    "criteria": {
-      "has_item": "2025-02-02 21:58:10 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/bread_from_smoking": {
-    "criteria": {
-      "has_dough": "2025-02-02 23:25:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-02-02 22:13:29 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/cut_andesite_create_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-02-02 20:21:00 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_andesite_brick_slab_recycling": {
-    "criteria": {
-      "has_small_andesite_brick_slab": "2025-02-02 22:31:22 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_slab": {
-    "criteria": {
-      "has_cut_andesite_bricks": "2025-02-02 20:29:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-02-02 20:58:39 +0000"
     },
     "done": false
   },
@@ -11548,63 +11416,15 @@
     },
     "done": false
   },
-  "blue_skies:recipes/misc/winter_leaf_seeds": {
-    "criteria": {
-      "has_item": "2025-02-02 21:58:06 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/cut_andesite_create_chair_modern": {
     "criteria": {
       "cut_andesite_create_chair_modern": "2025-02-02 20:21:00 +0000"
     },
     "done": false
   },
-  "create:recipes/building_blocks/cut_granite_brick_slab": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-02-02 22:25:54 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/curiosities/cake": {
-    "criteria": {
-      "has_item": "2025-02-02 23:25:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-02-02 21:57:42 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_recycling": {
-    "criteria": {
-      "has_cut_andesite_brick_slab": "2025-02-02 22:41:38 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_granite_brick_stairs": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-02-02 22:25:54 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/polished_cut_andesite_wall": {
     "criteria": {
       "has_polished_cut_andesite": "2025-02-02 20:21:00 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-02-02 20:58:39 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2025-02-02 23:25:48 +0000"
     },
     "done": false
   },
@@ -11620,21 +11440,9 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/small_andesite_brick_stairs": {
-    "criteria": {
-      "has_small_andesite_bricks": "2025-02-02 22:30:53 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/polished_cut_andesite_slab": {
     "criteria": {
       "has_polished_cut_andesite": "2025-02-02 20:21:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-02 22:13:29 +0000"
     },
     "done": false
   },
@@ -11644,9 +11452,204 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/cut_andesite_create_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-02 20:21:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-02-02 20:29:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-02-02 20:29:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-02-02 20:29:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-02 20:58:39 +0000"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-02 21:51:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-02 21:57:42 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-02 21:57:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-02 21:57:42 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/misc/winter_leaf_seeds": {
+    "criteria": {
+      "has_item": "2025-02-02 21:58:06 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/misc/scalefruit_seeds": {
+    "criteria": {
+      "has_item": "2025-02-02 21:58:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-02 22:10:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-02-02 22:13:02 +0000",
+      "salmon": "2025-02-02 22:13:29 +0000",
+      "cod": "2025-02-02 22:10:25 +0000",
+      "tropical_fish": "2025-02-02 22:11:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-02 22:13:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-02 22:13:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-02 22:13:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-02 22:13:29 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-02-02 22:25:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-02-02 22:25:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-02-02 22:25:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-02-02 22:30:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-02-02 22:30:53 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_andesite_brick_slab": {
     "criteria": {
       "has_small_andesite_bricks": "2025-02-02 22:30:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_andesite_brick_slab": "2025-02-02 22:31:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_andesite_brick_slab": "2025-02-02 22:41:38 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_diorite_brick_slab": "2025-02-02 22:49:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_andesite_slab": "2025-02-02 23:03:05 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-02-02 23:25:48 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-02-02 23:25:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-02-02 23:25:48 +0000"
     },
     "done": false
   },
@@ -11656,11 +11659,35 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/cut_andesite_create_modern_stool": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_planks": "2025-02-02 20:21:00 +0000"
+      "has_netherrack": "2025-02-02 23:39:00 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-02 23:43:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-02 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-02-02 23:48:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-03 00:03:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
