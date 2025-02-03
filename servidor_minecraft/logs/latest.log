@@ -866,3 +866,4 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 19:27:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
 [03Feb2025 19:37:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
 [03Feb2025 19:37:13.295] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[03Feb2025 20:06:56.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
