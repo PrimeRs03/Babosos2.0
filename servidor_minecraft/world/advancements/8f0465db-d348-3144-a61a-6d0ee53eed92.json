@@ -895,6 +895,7 @@
       "prairie": "2025-01-19 03:38:52 +0000",
       "gravel_beach": "2025-01-19 03:48:54 +0000",
       "glowing_grotto": "2025-01-26 21:29:24 +0000",
+      "tropics": "2025-02-04 00:40:26 +0000",
       "rainforest": "2025-02-03 23:40:32 +0000"
     },
     "done": false
@@ -923,6 +924,7 @@
       "prairie": "2025-01-19 03:38:52 +0000",
       "gravel_beach": "2025-01-19 03:48:54 +0000",
       "glowing_grotto": "2025-01-26 21:29:24 +0000",
+      "tropics": "2025-02-04 00:40:26 +0000",
       "rainforest": "2025-02-03 23:40:32 +0000"
     },
     "done": false
@@ -11913,9 +11915,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-02-03 23:54:44 +0000"
+      "has_echo_shard": "2025-02-03 23:18:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-03 23:18:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-03 23:18:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-03 23:18:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-03 23:18:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-03 23:18:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-03 23:18:18 +0000"
     },
     "done": false
   },
@@ -11925,15 +11963,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
-      "has_quartz": "2025-02-03 23:18:18 +0000"
-    },
-    "done": false
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_jungle": "2025-02-04 00:14:50 +0000"
+      "has_stone_types_crimsite": "2025-02-03 23:54:44 +0000"
     },
     "done": false
   },
@@ -11979,18 +12011,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-02-03 23:18:18 +0000"
-    },
-    "done": false
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-02-04 00:15:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-03 23:54:44 +0000"
@@ -12012,24 +12032,6 @@
   "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-03 23:54:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-02-03 23:18:18 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-02-03 23:18:18 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-02-03 23:18:18 +0000"
     },
     "done": false
   },
@@ -12063,21 +12065,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-02-03 23:18:18 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-03 23:54:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-02-03 23:18:15 +0000"
     },
     "done": false
   },
@@ -12086,6 +12076,24 @@
       "has_stone_types_crimsite": "2025-02-03 23:54:44 +0000"
     },
     "done": false
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-02-04 00:14:50 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-02-04 00:15:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-02-04 00:42:39 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
