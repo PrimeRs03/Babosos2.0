@@ -101,9 +101,11 @@
       "minecraft:savanna_plateau": "2025-02-03 04:09:39 +0000",
       "minecraft:beach": "2025-01-19 02:47:24 +0000",
       "minecraft:dark_forest": "2025-01-19 04:34:13 +0000",
+      "minecraft:sparse_jungle": "2025-02-03 23:42:34 +0000",
       "minecraft:river": "2025-01-19 02:22:02 +0000",
       "minecraft:lukewarm_ocean": "2025-01-19 04:28:12 +0000",
       "minecraft:stony_shore": "2025-01-19 03:46:52 +0000",
+      "minecraft:dripstone_caves": "2025-02-03 23:25:34 +0000",
       "minecraft:swamp": "2025-01-22 02:22:39 +0000",
       "minecraft:cold_ocean": "2025-01-19 03:54:22 +0000",
       "minecraft:forest": "2025-01-19 02:21:50 +0000",
@@ -117,6 +119,7 @@
       "minecraft:warm_ocean": "2025-02-03 02:30:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 01:06:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-19 04:32:37 +0000",
+      "minecraft:deep_dark": "2025-02-03 23:55:52 +0000",
       "minecraft:meadow": "2025-02-03 03:18:09 +0000",
       "minecraft:savanna": "2025-01-19 02:16:35 +0000",
       "minecraft:plains": "2025-01-19 02:20:51 +0000"
@@ -3753,6 +3756,7 @@
       "entered_fishing_ship": "2025-01-26 23:06:31 +0000",
       "entered_large_dungeon": "2025-01-26 22:53:32 +0000",
       "entered_tree_house": "2025-02-03 03:43:39 +0000",
+      "entered_sunken_shrine": "2025-02-04 00:11:26 +0000",
       "entered_ruined_building": "2025-01-19 03:27:32 +0000"
     },
     "done": false
@@ -3763,6 +3767,7 @@
       "entered_fishing_ship": "2025-01-26 23:06:31 +0000",
       "entered_large_dungeon": "2025-01-26 22:53:32 +0000",
       "entered_tree_house": "2025-02-03 03:43:39 +0000",
+      "entered_sunken_shrine": "2025-02-04 00:11:26 +0000",
       "entered_ruined_building": "2025-01-19 03:27:32 +0000"
     },
     "done": false
@@ -10576,7 +10581,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-02-03 00:11:32 +0000",
-      "sugar_cane": "2025-02-02 03:31:49 +0000"
+      "sugar_cane": "2025-02-02 03:31:49 +0000",
+      "potato": "2025-02-03 23:04:39 +0000"
     },
     "done": false
   },
@@ -11902,12 +11908,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2025-02-03 21:32:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-02-03 21:28:04 +0000"
@@ -11917,6 +11917,324 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-02-03 21:28:04 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-02-03 21:32:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-02-03 23:23:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-03 23:50:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template": {
+    "criteria": {
+      "has_shaper_armor_trim_smithing_template": "2025-02-03 23:20:20 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-02-04 00:15:14 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-03 23:23:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 23:45:09 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 23:45:09 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-03 23:23:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 23:45:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 23:45:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 23:45:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-03 23:20:23 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 23:45:09 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-03 23:00:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-02-03 23:23:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-03 23:23:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-02-03 23:59:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-03 23:20:20 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-02-03 23:23:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-03 23:17:46 +0000"
+    },
+    "done": false
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-02-03 23:45:09 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 23:55:13 +0000"
     },
     "done": false
   },
