@@ -10420,3 +10420,63 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Feb2025 03:41:33.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
 [05Feb2025 03:41:33.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
 [05Feb2025 03:42:55.061] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[05Feb2025 03:44:52.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:44:52.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:45:16.146] [Worker-Main-6/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Feb2025 03:45:16.810] [Worker-Main-6/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Feb2025 03:45:16.818] [Worker-Main-6/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Feb2025 03:45:16.819] [Worker-Main-6/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[05Feb2025 03:45:17.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[05Feb2025 03:45:17.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[05Feb2025 03:47:25.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room8
+[05Feb2025 03:47:25.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_backyard1
+[05Feb2025 03:47:25.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room4
+[05Feb2025 03:47:25.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room2
+[05Feb2025 03:47:25.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/pillager
+[05Feb2025 03:47:25.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/vindicator
+[05Feb2025 03:47:25.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window2
+[05Feb2025 03:47:25.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window4
+[05Feb2025 03:47:25.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window3
+[05Feb2025 03:47:25.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room11
+[05Feb2025 03:47:25.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window1
+[05Feb2025 03:47:25.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room3
+[05Feb2025 03:47:25.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement9
+[05Feb2025 03:47:25.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement9
+[05Feb2025 03:47:25.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room12
+[05Feb2025 03:47:25.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room1
+[05Feb2025 03:47:25.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room7
+[05Feb2025 03:47:25.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/vindicator_void
+[05Feb2025 03:47:25.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_backyard_tower1_top
+[05Feb2025 03:47:25.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/evoker
+[05Feb2025 03:47:25.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement11
+[05Feb2025 03:47:25.219] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room7
+[05Feb2025 03:47:25.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement8
+[05Feb2025 03:47:25.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room5
+[05Feb2025 03:47:25.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room9
+[05Feb2025 03:47:25.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room6
+[05Feb2025 03:47:25.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room1
+[05Feb2025 03:47:25.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement11
+[05Feb2025 03:47:25.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement10
+[05Feb2025 03:47:25.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room11
+[05Feb2025 03:47:25.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room5
+[05Feb2025 03:47:25.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement4
+[05Feb2025 03:47:25.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room10
+[05Feb2025 03:47:25.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement3
+[05Feb2025 03:47:25.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room10
+[05Feb2025 03:47:25.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement12
+[05Feb2025 03:47:25.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room12
+[05Feb2025 03:47:25.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/pillager_void
+[05Feb2025 03:47:25.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/witch
+[05Feb2025 03:47:25.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase5
+[05Feb2025 03:47:25.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/witch_void
+[05Feb2025 03:47:25.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/allay
+[05Feb2025 03:47:25.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/villager
+[05Feb2025 03:47:25.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/evoker_void
+[05Feb2025 03:47:25.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/allay_void
+[05Feb2025 03:47:25.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/big
+[05Feb2025 03:47:55.304] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=4.82 TIER=30.0 DMG=0.0 SPD=0.0 DIG=11.0
+[05Feb2025 03:47:55.304] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Req Map: {mining:45}
+[05Feb2025 03:48:53.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[05Feb2025 03:49:23.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[05Feb2025 03:49:52.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:49:52.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
