@@ -589,3 +589,55 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Feb2025 03:38:51.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [05Feb2025 03:38:54.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [05Feb2025 03:49:23.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[05Feb2025 03:57:39.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1150, y=13, z=-4109}
+[05Feb2025 03:57:47.032] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[05Feb2025 03:57:47.072] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[05Feb2025 03:57:47.075] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[05Feb2025 03:57:47.075] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[05Feb2025 03:57:47.077] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[05Feb2025 03:57:48.015] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[05Feb2025 03:57:48.017] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[05Feb2025 03:57:48.018] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[05Feb2025 03:57:48.018] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[05Feb2025 03:58:25.154] [Worker-Main-19/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[05Feb2025 03:58:25.156] [Worker-Main-19/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[05Feb2025 03:58:25.157] [Worker-Main-19/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[05Feb2025 03:58:25.158] [Worker-Main-19/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[05Feb2025 03:58:28.256] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[05Feb2025 03:58:28.276] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[05Feb2025 03:58:28.279] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[05Feb2025 03:58:28.282] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[05Feb2025 03:58:28.284] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[05Feb2025 03:58:28.284] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[05Feb2025 03:58:32.722] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1053, y=71, z=-3867}
+[05Feb2025 03:58:43.649] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[05Feb2025 03:58:56.529] [Worker-Main-18/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[05Feb2025 03:58:56.530] [Worker-Main-18/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[05Feb2025 03:58:56.530] [Worker-Main-18/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[05Feb2025 03:58:56.530] [Worker-Main-18/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[05Feb2025 03:58:57.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by Demogorgon
+[05Feb2025 03:58:57.805] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[05Feb2025 03:59:16.550] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=829, y=19, z=-3684}
+[05Feb2025 04:01:24.693] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=958, y=-47, z=-3346}
+[05Feb2025 04:01:52.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Feb2025 04:01:52.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Feb2025 04:01:52.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Server closed
+[05Feb2025 04:01:52.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[05Feb2025 04:01:52.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Feb2025 04:01:54.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Feb2025 04:01:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[05Feb2025 04:01:57.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[05Feb2025 04:01:57.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[05Feb2025 04:01:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Feb2025 04:01:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[05Feb2025 04:01:57.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Feb2025 04:01:57.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[05Feb2025 04:01:57.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Feb2025 04:01:57.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[05Feb2025 04:01:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[05Feb2025 04:01:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[05Feb2025 04:01:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Feb2025 04:01:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[05Feb2025 04:01:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Feb2025 04:01:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[05Feb2025 04:01:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
