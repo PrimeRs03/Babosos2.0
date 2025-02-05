@@ -12249,39 +12249,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/soul_lantern": {
+  "dungeons_enhanced:ahoy": {
     "criteria": {
-      "has_soul_torch": "2025-02-04 01:06:24 +0000"
+      "entered_pirate_ship": "2025-02-04 00:53:56 +0000"
     },
-    "done": false
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-02-04 01:05:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-02-04 01:03:17 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-04 01:00:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-04 01:05:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-02-04 01:50:22 +0000"
     },
     "done": true
   },
@@ -12291,15 +12267,39 @@
     },
     "done": false
   },
-  "dungeons_enhanced:ahoy": {
+  "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
-      "entered_pirate_ship": "2025-02-04 00:53:56 +0000"
+      "has_disc_fragment_5": "2025-02-04 01:03:17 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-02-04 01:05:37 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 01:05:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-04 01:06:24 +0000"
+    },
+    "done": false
   },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-02-04 01:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-04 01:50:22 +0000"
     },
     "done": true
   },
