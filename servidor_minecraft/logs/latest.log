@@ -605,3 +605,15 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [07Feb2025 03:56:59.643] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [07Feb2025 04:04:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 suffocated in a wall
 [07Feb2025 04:04:53.882] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[07Feb2025 04:18:18.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[07Feb2025 04:18:18.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[07Feb2025 04:18:22.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.176.159.168:48211] logged in with entity id 16217 at (-1612.8731918382173, 125.0, 129.98585818271528)
+[07Feb2025 04:18:22.811] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[07Feb2025 04:18:22.812] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[07Feb2025 04:18:22.815] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[07Feb2025 04:18:22.815] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[07Feb2025 04:18:22.819] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[07Feb2025 04:18:22.827] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[07Feb2025 04:18:22.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[07Feb2025 04:18:22.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[07Feb2025 04:18:22.975] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
