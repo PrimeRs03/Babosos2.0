@@ -603,3 +603,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [07Feb2025 03:56:59.631] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [07Feb2025 03:56:59.641] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
 [07Feb2025 03:56:59.643] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[07Feb2025 04:04:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 suffocated in a wall
+[07Feb2025 04:04:53.882] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved

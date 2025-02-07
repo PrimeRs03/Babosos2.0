@@ -10577,3 +10577,35 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [07Feb2025 03:58:41.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
 [07Feb2025 03:59:12.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
 [07Feb2025 03:59:12.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[07Feb2025 04:03:38.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 04:03:38.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 04:04:47.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:alchemist_1
+[07Feb2025 04:04:47.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_2
+[07Feb2025 04:04:47.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_2
+[07Feb2025 04:04:48.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[07Feb2025 04:04:48.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[07Feb2025 04:04:48.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_0
+[07Feb2025 04:04:48.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[07Feb2025 04:04:48.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[07Feb2025 04:04:48.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[07Feb2025 04:04:48.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[07Feb2025 04:04:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 suffocated in a wall
+[07Feb2025 04:04:53.842] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-15, y:0, z:13, dim:minecraft:overworld]
+[07Feb2025 04:04:53.882] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[07Feb2025 04:05:28.411] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1 13 13 VisualFallingBlockEntity['Falling Stone'/9101, l='ServerLevel[world]', x=1.50, y=14.00, z=13.50]
+[07Feb2025 04:05:28.429] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 0 13 13 VisualFallingBlockEntity['Falling Stone'/9102, l='ServerLevel[world]', x=0.50, y=17.00, z=13.50]
+[07Feb2025 04:05:34.345] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -3 14 14 VisualFallingBlockEntity['Falling Stone'/9117, l='ServerLevel[world]', x=-2.50, y=21.00, z=14.50]
+[07Feb2025 04:05:34.353] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 0 13 13 VisualFallingBlockEntity['Falling Stone'/9118, l='ServerLevel[world]', x=0.50, y=20.00, z=13.50]
+[07Feb2025 04:05:39.207] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 0 13 13 VisualFallingBlockEntity['Falling Stone'/9153, l='ServerLevel[world]', x=0.50, y=31.00, z=13.50]
+[07Feb2025 04:07:08.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[07Feb2025 04:07:08.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_1
+[07Feb2025 04:07:08.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_4
+[07Feb2025 04:07:08.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_2
+[07Feb2025 04:07:08.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_5
+[07Feb2025 04:07:08.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_0
+[07Feb2025 04:07:08.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_3
+[07Feb2025 04:07:10.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:mason_1
+[07Feb2025 04:07:10.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_3
+[07Feb2025 04:08:38.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 04:08:38.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 04:10:30.739] [Server thread/DEBUG] [mixin/]: Mixing MixinExplosionDamageCalculator from railways-common.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
