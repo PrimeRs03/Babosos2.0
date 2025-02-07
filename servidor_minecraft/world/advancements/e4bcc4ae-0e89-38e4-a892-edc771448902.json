@@ -12334,6 +12334,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 04:11:05 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/dead_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
@@ -12352,34 +12358,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-02-05 05:12:46 +0000",
-      "has_red_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/oak_chair_classic_pink": {
-    "criteria": {
-      "oak_chair_classic_pink": "2025-02-05 05:12:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-02-05 05:12:46 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/fir_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-02-05 05:12:46 +0000"
     },
     "done": false
   },
@@ -12407,33 +12388,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2025-02-05 04:47:06 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/warped_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/pink_bed": {
-    "criteria": {
-      "has_pink_wool": "2025-02-05 05:12:51 +0000"
     },
     "done": false
   },
@@ -12446,12 +12403,6 @@
   "pfm:recipes/furniture/starlit_blue_skies_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/pink_banner": {
-    "criteria": {
-      "has_pink_wool": "2025-02-05 05:12:51 +0000"
     },
     "done": false
   },
@@ -12479,24 +12430,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-02-05 04:23:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-05 04:23:23 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/pink_shower_towel": {
-    "criteria": {
-      "has_pink_wool": "2025-02-05 05:12:51 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/bamboo_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
@@ -12512,12 +12445,6 @@
   "pfm:recipes/furniture/comet_blue_skies_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-02-05 04:34:01 +0000"
     },
     "done": false
   },
@@ -12551,33 +12478,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/maple_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_pink_dye": "2025-02-05 05:12:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:42 +0000"
     },
     "done": false
   },
@@ -12586,18 +12489,6 @@
       "has_bed": "2025-02-05 04:11:37 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
-    "criteria": {
-      "arcane_anvil": "2025-02-05 04:48:58 +0000"
-    },
-    "done": true
   },
   "pfm:recipes/furniture/spruce_black_classic_bed": {
     "criteria": {
@@ -12611,20 +12502,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000",
-      "has_red_dye": "2025-02-05 05:12:43 +0000",
-      "has_the_recipe": "2025-02-05 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/comet_blue_skies_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
@@ -12634,12 +12511,6 @@
   "pfm:recipes/furniture/umbran_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-05 04:11:05 +0000"
     },
     "done": false
   },
@@ -12667,12 +12538,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:46 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/jungle_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
@@ -12688,12 +12553,6 @@
   "pfm:recipes/furniture/hellbark_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:42 +0000"
     },
     "done": false
   },
@@ -12721,30 +12580,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-02-05 04:23:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/dead_biomesoplenty_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
@@ -12760,12 +12595,6 @@
   "pfm:recipes/furniture/starlit_blue_skies_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000"
     },
     "done": false
   },
@@ -12793,28 +12622,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2025-02-05 05:12:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/dark_oak_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000",
-      "has_rose_red": "2025-02-05 05:12:43 +0000"
     },
     "done": false
   },
@@ -12842,28 +12652,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:46 +0000",
-      "has_the_recipe": "2025-02-05 05:12:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/fir_biomesoplenty_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:46 +0000"
     },
     "done": false
   },
@@ -12879,18 +12670,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_white_dye": "2025-02-05 05:12:42 +0000"
-    },
-    "done": false
-  },
-  "nova_structures:adventure/find_swamp_village": {
-    "criteria": {
-      "minecraft:village_swamp": "2025-02-05 04:13:19 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/birch_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
@@ -12900,12 +12679,6 @@
   "pfm:recipes/furniture/mangrove_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-02-05 05:12:42 +0000"
     },
     "done": false
   },
@@ -12939,12 +12712,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/pink_carpet": {
-    "criteria": {
-      "has_pink_wool": "2025-02-05 05:12:51 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/pine_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
@@ -12954,6 +12721,239 @@
   "pfm:recipes/furniture/dark_oak_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-05 04:11:37 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-02-05 04:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-05 04:23:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-05 04:23:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-05 04:23:23 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-05 04:34:01 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-02-05 04:47:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-02-05 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000",
+      "has_red_dye": "2025-02-05 05:12:43 +0000",
+      "has_the_recipe": "2025-02-05 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000",
+      "has_rose_red": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-02-05 05:12:46 +0000",
+      "has_red_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-02-05 05:12:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-02-05 05:12:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-02-05 05:12:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-02-05 05:12:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:46 +0000",
+      "has_the_recipe": "2025-02-05 05:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-05 05:12:46 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/oak_chair_classic_pink": {
+    "criteria": {
+      "oak_chair_classic_pink": "2025-02-05 05:12:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-02-05 05:12:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-02-05 05:12:51 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/pink_shower_towel": {
+    "criteria": {
+      "has_pink_wool": "2025-02-05 05:12:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-02-05 05:12:51 +0000"
     },
     "done": false
   },
