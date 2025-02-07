@@ -10003,9 +10003,10 @@
   },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_smooth_stone": "2025-01-26 21:22:38 +0000"
+      "has_smooth_stone": "2025-01-26 21:22:38 +0000",
+      "has_the_recipe": "2025-02-07 04:49:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
     "criteria": {

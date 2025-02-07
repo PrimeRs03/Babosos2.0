@@ -10938,3 +10938,46 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [07Feb2025 04:44:15.898] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1728 622 622 VisualFallingBlockEntity['Falling Deepslate'/21645, l='ServerLevel[world]', x=-1727.50, y=-38.00, z=622.50]
 [07Feb2025 04:48:38.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Feb2025 04:48:38.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 04:53:38.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 04:53:38.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 04:58:18.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[07Feb2025 04:58:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[07Feb2025 04:58:27.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Feb2025 04:58:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Feb2025 04:58:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Feb2025 04:58:27.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Feb2025 04:58:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[07Feb2025 04:58:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[07Feb2025 04:58:27.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[07Feb2025 04:58:27.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[07Feb2025 04:58:27.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Feb2025 04:58:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[07Feb2025 04:58:27.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Feb2025 04:58:27.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 04:58:27.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 04:58:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Feb2025 04:58:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[07Feb2025 04:58:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[07Feb2025 04:58:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[07Feb2025 04:58:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[07Feb2025 04:58:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Feb2025 04:58:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[07Feb2025 04:58:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Feb2025 04:58:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Feb2025 04:58:27.577] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[07Feb2025 04:58:27.577] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[07Feb2025 04:58:27.609] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everbright
+[07Feb2025 04:58:27.609] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everbright
+[07Feb2025 04:58:27.610] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for boh:boiler_room_dimension
+[07Feb2025 04:58:27.610] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for boh:boiler_room_dimension
+[07Feb2025 04:58:27.610] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for boh:gaster_dimension
+[07Feb2025 04:58:27.610] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for boh:gaster_dimension
+[07Feb2025 04:58:27.611] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for boh:level_0
+[07Feb2025 04:58:27.611] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for boh:level_0
+[07Feb2025 04:58:27.639] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[07Feb2025 04:58:27.639] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[07Feb2025 04:58:27.640] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everdawn
+[07Feb2025 04:58:27.640] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everdawn
+[07Feb2025 04:58:27.640] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[07Feb2025 04:58:27.640] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[07Feb2025 04:58:27.642] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
