@@ -6778,9 +6778,10 @@
   },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "has_stone": "2025-01-19 23:45:06 +0000"
+      "has_stone": "2025-01-19 23:45:06 +0000",
+      "has_the_recipe": "2025-02-07 04:48:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/stone_chair_dinner": {
     "criteria": {
@@ -12956,6 +12957,12 @@
       "has_pink_wool": "2025-02-05 05:12:51 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-02-07 04:31:52 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {

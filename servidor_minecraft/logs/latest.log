@@ -619,3 +619,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [07Feb2025 04:18:22.975] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
 [07Feb2025 04:24:54.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Horror Under the Mantle]
 [07Feb2025 04:31:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Protected by Darkness]
+[07Feb2025 04:38:04.244] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1457, y=63, z=560}
+[07Feb2025 04:38:08.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
